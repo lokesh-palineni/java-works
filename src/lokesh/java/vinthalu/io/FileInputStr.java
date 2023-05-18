@@ -2,7 +2,7 @@ package lokesh.java.vinthalu.io;
 
 import java.io.FileInputStream;
 
-public class FileInputStreamEx {
+public class FileInputStr {
 
 	public static void main(String[] args) {
 		try {
