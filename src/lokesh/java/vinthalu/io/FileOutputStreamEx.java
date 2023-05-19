@@ -16,7 +16,7 @@ public class FileOutputStreamEx {
 		for(char ch:s.toCharArray()) {
 			fos.write((int)ch);
 		}
-		fos.write(75);
+		fos.write(3);
 		 
 
 		

@@ -22,9 +22,10 @@ public class BufferedReaderEx {
 //			String text="";
 //		 
 //			 while((asciiCode=br.read())!=-1) {
-//				 text+=String.valueOf((char)asciiCode);
-//			//System.out.print((char)asciiCode);
-//			 }
+//				 text+=String.valueOf((char)asciiCode); //we can get data int ascii format or line format
+ //			//System.out.print((char)asciiCode);          //
+//			 }                                         //bufferedreader can get values in file reader format
+ 		                                                 //file input stream format
 //			 System.out.println(text);
 		String text=new String();
 		String line="";
